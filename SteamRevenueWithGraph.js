@@ -2,7 +2,7 @@
 // @name         Steam Revenue v2 with Graph (Final Version)
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=steampowered.com
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.6
 // @description  Calculate Steam game revenue and display a graph of player data below the calculations.
 // @match        https://store.steampowered.com/app/*
 // @connect      steamcharts.com
@@ -10,6 +10,8 @@
 // @grant        GM_addStyle
 // @require      https://cdn.jsdelivr.net/npm/chart.js
 // @require      https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns
+// @updateURL    https://raw.githubusercontent.com/hex512/Steam_Revenue_With_Graph/main/SteamRevenueWithGraph.js
+// @downloadURL  https://raw.githubusercontent.com/hex512/Steam_Revenue_With_Graph/main/SteamRevenueWithGraph.js
 // ==/UserScript==
 
 (function () {
