@@ -10,7 +10,7 @@ This project is a fork of an extension for Tampermonkey, using methods to calcul
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension (alternative for Safari: [UserScripts](https://apps.apple.com/app/userscripts/id1463298887)).
 2. After installation, open the Tampermonkey settings menu.
-3. Click ["Install Script"](https://raw.githubusercontent.com/hex512/Steam_Revenue_With_Graph/main/SteamRevenueWithGraph.js).
+3. Click ["Install Script"](https://raw.githubusercontent.com/hex512/Steam_Revenue_With_Graph/main/SteamRevenueWithGraph.user.js).
 
 ---
 
