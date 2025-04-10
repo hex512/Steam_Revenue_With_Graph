@@ -10,8 +10,8 @@
 // @grant        GM_addStyle
 // @require      https://cdn.jsdelivr.net/npm/chart.js
 // @require      https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns
-// @updateURL    https://raw.githubusercontent.com/hex512/Steam_Revenue_With_Graph/main/SteamRevenueWithGraph.js
-// @downloadURL  https://raw.githubusercontent.com/hex512/Steam_Revenue_With_Graph/main/SteamRevenueWithGraph.js
+// @updateURL    https://github.com/hex512/Steam_Revenue_With_Graph/raw/refs/heads/main/SteamRevenueWithGraph.user.js
+// @downloadURL  https://github.com/hex512/Steam_Revenue_With_Graph/raw/refs/heads/main/SteamRevenueWithGraph.user.js
 // ==/UserScript==
 
 (function () {
